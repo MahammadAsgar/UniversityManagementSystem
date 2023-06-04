@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "1MG4smN3goLBlF2yHExkwalsaJ8itlQNsktVqgwSRZA=",
+  "Source": "UniversityManagement.Api",
+  "BasePath": "_content/UniversityManagement.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

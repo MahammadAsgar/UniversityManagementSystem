@@ -1,0 +1,15 @@
+C:\Users\HP\source\UniversityManagement\UniversityManagement.Core\bin\Debug\net6.0\UniversityManagement.Core.deps.json
+C:\Users\HP\source\UniversityManagement\UniversityManagement.Core\bin\Debug\net6.0\UniversityManagement.Core.dll
+C:\Users\HP\source\UniversityManagement\UniversityManagement.Core\bin\Debug\net6.0\UniversityManagement.Core.pdb
+C:\Users\HP\source\UniversityManagement\UniversityManagement.Core\bin\Debug\net6.0\SharedLibrary.dll
+C:\Users\HP\source\UniversityManagement\UniversityManagement.Core\bin\Debug\net6.0\SharedLibrary.pdb
+C:\Users\HP\source\UniversityManagement\UniversityManagement.Core\obj\Debug\net6.0\UniversityManagement.Core.csproj.AssemblyReference.cache
+C:\Users\HP\source\UniversityManagement\UniversityManagement.Core\obj\Debug\net6.0\UniversityManagement.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\UniversityManagement\UniversityManagement.Core\obj\Debug\net6.0\UniversityManagement.Core.AssemblyInfoInputs.cache
+C:\Users\HP\source\UniversityManagement\UniversityManagement.Core\obj\Debug\net6.0\UniversityManagement.Core.AssemblyInfo.cs
+C:\Users\HP\source\UniversityManagement\UniversityManagement.Core\obj\Debug\net6.0\UniversityManagement.Core.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\UniversityManagement\UniversityManagement.Core\obj\Debug\net6.0\UniversityManagement.Core.csproj.CopyComplete
+C:\Users\HP\source\UniversityManagement\UniversityManagement.Core\obj\Debug\net6.0\UniversityManagement.Core.dll
+C:\Users\HP\source\UniversityManagement\UniversityManagement.Core\obj\Debug\net6.0\refint\UniversityManagement.Core.dll
+C:\Users\HP\source\UniversityManagement\UniversityManagement.Core\obj\Debug\net6.0\UniversityManagement.Core.pdb
+C:\Users\HP\source\UniversityManagement\UniversityManagement.Core\obj\Debug\net6.0\ref\UniversityManagement.Core.dll

@@ -1,0 +1,17 @@
+C:\Users\HP\source\UniversityManagement\UniversityManagement.Data\bin\Debug\net6.0\UniversityManagement.Data.deps.json
+C:\Users\HP\source\UniversityManagement\UniversityManagement.Data\bin\Debug\net6.0\UniversityManagement.Data.dll
+C:\Users\HP\source\UniversityManagement\UniversityManagement.Data\bin\Debug\net6.0\UniversityManagement.Data.pdb
+C:\Users\HP\source\UniversityManagement\UniversityManagement.Data\bin\Debug\net6.0\SharedLibrary.dll
+C:\Users\HP\source\UniversityManagement\UniversityManagement.Data\bin\Debug\net6.0\UniversityManagement.Core.dll
+C:\Users\HP\source\UniversityManagement\UniversityManagement.Data\bin\Debug\net6.0\UniversityManagement.Core.pdb
+C:\Users\HP\source\UniversityManagement\UniversityManagement.Data\bin\Debug\net6.0\SharedLibrary.pdb
+C:\Users\HP\source\UniversityManagement\UniversityManagement.Data\obj\Debug\net6.0\UniversityManagement.Data.csproj.AssemblyReference.cache
+C:\Users\HP\source\UniversityManagement\UniversityManagement.Data\obj\Debug\net6.0\UniversityManagement.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\UniversityManagement\UniversityManagement.Data\obj\Debug\net6.0\UniversityManagement.Data.AssemblyInfoInputs.cache
+C:\Users\HP\source\UniversityManagement\UniversityManagement.Data\obj\Debug\net6.0\UniversityManagement.Data.AssemblyInfo.cs
+C:\Users\HP\source\UniversityManagement\UniversityManagement.Data\obj\Debug\net6.0\UniversityManagement.Data.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\UniversityManagement\UniversityManagement.Data\obj\Debug\net6.0\UniversityManagement.Data.csproj.CopyComplete
+C:\Users\HP\source\UniversityManagement\UniversityManagement.Data\obj\Debug\net6.0\UniversityManagement.Data.dll
+C:\Users\HP\source\UniversityManagement\UniversityManagement.Data\obj\Debug\net6.0\refint\UniversityManagement.Data.dll
+C:\Users\HP\source\UniversityManagement\UniversityManagement.Data\obj\Debug\net6.0\UniversityManagement.Data.pdb
+C:\Users\HP\source\UniversityManagement\UniversityManagement.Data\obj\Debug\net6.0\ref\UniversityManagement.Data.dll

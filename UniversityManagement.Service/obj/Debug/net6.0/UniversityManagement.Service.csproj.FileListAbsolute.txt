@@ -1,0 +1,17 @@
+C:\Users\HP\source\UniversityManagement\UniversityManagement.Service\obj\Debug\net6.0\UniversityManagement.Service.csproj.AssemblyReference.cache
+C:\Users\HP\source\UniversityManagement\UniversityManagement.Service\obj\Debug\net6.0\UniversityManagement.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\UniversityManagement\UniversityManagement.Service\obj\Debug\net6.0\UniversityManagement.Service.AssemblyInfoInputs.cache
+C:\Users\HP\source\UniversityManagement\UniversityManagement.Service\obj\Debug\net6.0\UniversityManagement.Service.AssemblyInfo.cs
+C:\Users\HP\source\UniversityManagement\UniversityManagement.Service\obj\Debug\net6.0\UniversityManagement.Service.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\UniversityManagement\UniversityManagement.Service\bin\Debug\net6.0\UniversityManagement.Service.deps.json
+C:\Users\HP\source\UniversityManagement\UniversityManagement.Service\bin\Debug\net6.0\UniversityManagement.Service.dll
+C:\Users\HP\source\UniversityManagement\UniversityManagement.Service\bin\Debug\net6.0\UniversityManagement.Service.pdb
+C:\Users\HP\source\UniversityManagement\UniversityManagement.Service\bin\Debug\net6.0\SharedLibrary.dll
+C:\Users\HP\source\UniversityManagement\UniversityManagement.Service\bin\Debug\net6.0\UniversityManagement.Core.dll
+C:\Users\HP\source\UniversityManagement\UniversityManagement.Service\bin\Debug\net6.0\UniversityManagement.Core.pdb
+C:\Users\HP\source\UniversityManagement\UniversityManagement.Service\bin\Debug\net6.0\SharedLibrary.pdb
+C:\Users\HP\source\UniversityManagement\UniversityManagement.Service\obj\Debug\net6.0\UniversityManagement.Service.csproj.CopyComplete
+C:\Users\HP\source\UniversityManagement\UniversityManagement.Service\obj\Debug\net6.0\UniversityManagement.Service.dll
+C:\Users\HP\source\UniversityManagement\UniversityManagement.Service\obj\Debug\net6.0\refint\UniversityManagement.Service.dll
+C:\Users\HP\source\UniversityManagement\UniversityManagement.Service\obj\Debug\net6.0\UniversityManagement.Service.pdb
+C:\Users\HP\source\UniversityManagement\UniversityManagement.Service\obj\Debug\net6.0\ref\UniversityManagement.Service.dll
